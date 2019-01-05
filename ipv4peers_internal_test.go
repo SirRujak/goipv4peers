@@ -1,4 +1,4 @@
-package ipv4peersgo
+package goipv4peers
 
 import (
 	"bytes"
